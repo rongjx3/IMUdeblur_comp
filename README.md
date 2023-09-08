@@ -8,19 +8,19 @@ We compare the proposed method with BDSI[1], DSPSI[2], ASPDC[3], M3SNet[4], CIMB
 
 | <sub>Example #1</sub>                                  |
 |:------------------------------------------------------:|
-| ![](.\img\1.svg) |
+| ![](./img/1.svg) |
 
 | <sub>Example #2</sub>                                  |
 |:------------------------------------------------------:|
-| ![](.\img\2.svg) |
+| ![](./img/2.svg) |
 
 | <sub>Example #3</sub>                                  |
 |:------------------------------------------------------:|
-| ![](.\img\3.svg) |
+| ![](./img/3.svg) |
 
 | <sub>Example #4</sub>                                  |
 |:------------------------------------------------------:|
-| ![](.\img\4.svg) |
+| ![](./img/4.svg) |
 
 For a quantitative comparison of different methods using these real-world images, we use a deblurring metric introduced by [7]. This metric allows us to assess deblurring results quantitatively, where higher values signify better deblurring quality.
 
