@@ -2,7 +2,7 @@
 
 This supplementary material contains additional comparative experimental results.
 
-## Comparison Results
+## Visual Comparison Results
 
 We compare the proposed method with BDSI[1], DSPSI[2], ASPDC[3], M3SNet[4], CIMBID[5] and GAMD[6]
 
@@ -21,6 +21,8 @@ We compare the proposed method with BDSI[1], DSPSI[2], ASPDC[3], M3SNet[4], CIMB
 | <sub>Example #24</sub>                                  |
 |:------------------------------------------------------:|
 | ![](./img/3.svg) |
+
+## Quantitative Comparison Results
 
 For a quantitative comparison of different methods using these real-world images, we use a deblurring metric introduced by [7]. This metric allows us to assess deblurring results quantitatively, where higher values signify better deblurring quality.
 
