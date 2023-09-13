@@ -2,9 +2,43 @@
 
 This supplementary material contains additional comparative experimental results.
 
-## Visual Comparison Results
+## Visual Comparison Results on Public Dataset
 
-We compare the proposed method with BDSI[1], DSPSI[2], ASPDC[3], M3SNet[4], CIMBID[5] and GAMD[6]
+We compare the proposed method with BDSI[1], DSPSI[2], ASPDC[3], M3SNet[4], CIMBID[5] and GAMD[6] on the public dataset from CIMBID[5].
+
+| <sub>Example #01</sub>                                  |
+|:------------------------------------------------------:|
+| ![](./img/YZ1.svg) |
+
+| <sub>Example #02</sub>                                  |
+|:------------------------------------------------------:|
+| ![](./img/YZ2.svg) |
+
+| <sub>Example #03</sub>                                  |
+|:------------------------------------------------------:|
+| ![](./img/YZ3.svg) |
+
+| <sub>Example #04</sub>                                  |
+|:------------------------------------------------------:|
+| ![](./img/YZ4.svg) |
+
+## Quantitative Comparison Results on Public Dataset
+
+For a quantitative comparison of different methods using these real-world images, we use a deblurring metric introduced by [7]. This metric allows us to assess deblurring results quantitatively, where higher values signify better deblurring quality.
+
+Quantitative comparison with BDSI, DSPSI, ASPDC, M3SNet, CIMBID and GAMD on the public dataset is shown in the table below.
+
+| Examples   | Blurred  | Ours    | BDSI     | DSPSI    | ASPDC    | M3SNet   | CIMBID   | GAMD    |
+| ---------- | -------- | ------- | -------- | -------- | -------- | -------- | -------- | ------- |
+| #01 | -11.2445  | **-6.6010**  | -7.7394  | -9.5686  | -9.6105  | -10.2199  | -7.7173  | -9.5880 |
+| #02 | -12.7530  | **-7.4661**  | -9.4947  | -10.8203  | -10.5854  | -11.3890  | -8.8212  | -10.7731 |
+| #03 | -13.8704  | **-7.8338**  | -9.4071  | -11.6113  | -12.1604  | -11.8839  | -8.5712  | -11.1112 |
+| #04 | -12.5138  | **-7.2950**  | -8.9111  | -10.9472  | -12.6569  | -13.1406  | -7.9329  | -10.0561 |
+| Average | -12.5954  | **-7.2990**  | -8.8881  | -10.7369  | -11.2533  | -11.6584  | -8.2606  | -10.3821 |
+
+## Visual Comparison Results on Proposed Dataset
+
+We compare the proposed method with BDSI[1], DSPSI[2], ASPDC[3], M3SNet[4], CIMBID[5] and GAMD[6] on the proposed dataset.
 
 | <sub>Example #01</sub>                                  |
 |:------------------------------------------------------:|
@@ -22,9 +56,7 @@ We compare the proposed method with BDSI[1], DSPSI[2], ASPDC[3], M3SNet[4], CIMB
 |:------------------------------------------------------:|
 | ![](./img/3.svg) |
 
-## Quantitative Comparison Results
-
-For a quantitative comparison of different methods using these real-world images, we use a deblurring metric introduced by [7]. This metric allows us to assess deblurring results quantitatively, where higher values signify better deblurring quality.
+## Quantitative Comparison Results on Proposed Dataset
 
 Quantitative comparison with BDSI, DSPSI, ASPDC, M3SNet, CIMBID and GAMD on the full proposed dataset is shown in the table below.
 
