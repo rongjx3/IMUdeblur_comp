@@ -4,7 +4,7 @@ This supplementary material contains additional comparative experimental results
 
 ## Visual Comparison Results on Public Dataset
 
-We compare the proposed method with BDSI[1], DSPSI[2], ASPDC[3], M3SNet[4], CIMBID[5] and GAMD[6] on the public dataset from CIMBID[5].
+We compare the proposed method with BDSI[1], DSPSI[2], ASPDC[3], M3SNet[4], CIMBID[5] and GAMD[6] on the public dataset from CIMBID[5]. It's worth noting that we reduced the sampling frequency of IMU data, hence the experimental results differ from those presented in the CIMBID paper.
 
 | <sub>Example #01</sub>                                  |
 |:------------------------------------------------------:|
