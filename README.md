@@ -96,7 +96,7 @@ Quantitative comparison with BDSI, DSPSI, ASPDC, M3SNet, NAFNet, EFDT, SelfDeblu
 | #32 | -9.8999  | -7.6313  | -8.0334  | -10.4726  | -8.0854  | -8.3027  | -9.4242  | **-7.6278**  | -9.0285  | -8.4252  | -8.0141  | -7.7741 |
 | Average | -9.7745  | **-7.3760**  | -9.1437  | -11.7868  | -8.9772  | -9.0308  | -9.9603  | -8.9840  | -9.8945  | -9.4487  | -10.2170  | -8.0500 |
 
-Full proposed dataset is available in [here](https://www.dropbox.com/scl/fi/p7n0lmjq1fbn2msm2ohly/IMU_deblur_dataset.rar?rlkey=bb67jn700d3k1uakfux9ht82p&dl=0).
+Full proposed dataset is available in [here](https://mega.nz/file/FkhWGZZJ#NsBGg7lpa7fckLJPJ8WIbhcMafLXUekWJHAntqvYRQY). This link is updated in 2025/01/16.
 
 # Reference
 
